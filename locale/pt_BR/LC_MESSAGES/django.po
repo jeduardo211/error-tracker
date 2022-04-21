@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-21 19:29-0300\n"
+"PO-Revision-Date: 2022-04-21 19:41-0300\n"
+"Last-Translator: Júnio Eduardo de Morais Aquino <eduardomorais211@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: .\build\lib\error_tracker\django\apps.py:17
+#: .\error_tracker\django\apps.py:17
+msgid "Error Monitoring and Exception Tracking"
+msgstr "Monitoramento de Erros e Rastreamento de Exceção"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\base.html:41
+#: .\error_tracker\django\templates\error_tracker\base.html:41
+msgid "Errors Seen"
+msgstr "Erros Vistos"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\detail.html:10
+#: .\build\lib\error_tracker\django\templates\error_tracker\list.html:76
+#: .\error_tracker\django\templates\error_tracker\detail.html:10
+#: .\error_tracker\django\templates\error_tracker\list.html:76
+msgid "Method"
+msgstr "Método"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\detail.html:11
+#: .\error_tracker\django\templates\error_tracker\detail.html:11
+msgid "Referrer"
+msgstr "Referenciador"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\detail.html:22
+#: .\error_tracker\django\templates\error_tracker\detail.html:22
+msgid "First time seen"
+msgstr "Visto pela primeira vez"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\detail.html:26
+#: .\build\lib\error_tracker\django\templates\error_tracker\list.html:79
+#: .\error_tracker\django\templates\error_tracker\detail.html:26
+#: .\error_tracker\django\templates\error_tracker\list.html:79
+msgid "Last seen"
+msgstr "Visto pela última vez"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\detail.html:30
+#: .\error_tracker\django\templates\error_tracker\detail.html:30
+msgid "Occurrences"
+msgstr "Ocorrências"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\detail.html:35
+#: .\error_tracker\django\templates\error_tracker\detail.html:35
+msgid "Request data"
+msgstr "Dados da requisição"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\detail.html:39
+#: .\error_tracker\django\templates\error_tracker\detail.html:39
+msgid "Exception detail"
+msgstr "Detalhes da exceção"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\list.html:75
+#: .\error_tracker\django\templates\error_tracker\list.html:75
+msgid "Host"
+msgstr "Hospedeiro"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\list.html:77
+#: .\error_tracker\django\templates\error_tracker\list.html:77
+msgid "Path"
+msgstr "Caminho"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\list.html:78
+#: .\error_tracker\django\templates\error_tracker\list.html:78
+msgid "Exception"
+msgstr "Exceção"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\list.html:81
+#: .\error_tracker\django\templates\error_tracker\list.html:81
+msgid "Action"
+msgstr "Ação"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\list.html:90
+#: .\error_tracker\django\templates\error_tracker\list.html:90
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\partials\navigation.html:5
+#: .\error_tracker\django\templates\error_tracker\partials\navigation.html:5
+msgid "Newer exceptions"
+msgstr "Exceções mais recentes"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\partials\navigation.html:9
+#: .\error_tracker\django\templates\error_tracker\partials\navigation.html:9
+msgid "Older exceptions"
+msgstr "Exceções mais antigas"
+
+#: .\build\lib\error_tracker\django\templates\error_tracker\partials\partial_table.html:16
+#: .\error_tracker\django\templates\error_tracker\partials\partial_table.html:16
+msgid "Delete"
+msgstr "Apagar"
